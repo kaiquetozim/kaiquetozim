@@ -1,8 +1,8 @@
-# Seu Nome
+# Kaique Sotero Tozim
 
 ## Olá! 👋
 
-Sou [Seu Nome], [breve descrição sobre você]. Estou interessado em [suas áreas de interesse]. Atualmente, estou trabalhando em [projeto atual ou área de trabalho].
+Sou Kaique Sotero Tozim, gosto de programação, de estudar algoritmos e banco de dados. Estou interessado em atuar na área de analista e desenvolvedor de sistemas. Atualmente, estou cursando o curso de ànalise e desenvolvimento de sistemas na faculdade sptech, integrado no projeto .
 
 ## 🌱 Atualmente Aprendendo
 
