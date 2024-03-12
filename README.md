@@ -6,8 +6,8 @@ Sou Kaique Sotero Tozim, gosto de programação, de estudar algoritmos e banco d
 
 ## 🌱 Atualmente Aprendendo
 
-- Algoritimos com a linguagem de programção javaScript
-- Criar tabelas, altera-lás, inserir valores e modifica-lás no banco de dados
+- Algoritimos por meio da linguagem de programção javaScript
+- Criar tabelas, altera-lás, inserir valores e modifica-lás no banco de dados mysql
 - documentação de projeto
 - maracação de texto HTML e estilização CSS
 - Números e calculos binários
