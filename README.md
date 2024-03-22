@@ -23,11 +23,4 @@ Alguns projetos em que estou trabalhando ou contribuindo:
 
 - email: @kaique.tozim@sptech.school
 
-## 🤝 Contribuições
-
-Estou sempre aberto a colaborações e contribuições em projetos open-source. Se você tiver algum projeto interessante ou ideia para discutir, fique à vontade para entrar em contato comigo!
-
-## 📝 Licença
-
-Este README está sob a licença [Nome da Licença]. Para mais detalhes, consulte o arquivo [LICENSE](link para o arquivo LICENSE) neste repositório.
 
