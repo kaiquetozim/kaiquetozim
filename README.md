@@ -48,19 +48,6 @@ Site e sistema de monitoramento climático em tempo real
 ### 🔹Tozim solutions
 Site e sistema de gerenciamento de estoque de peças de sofás.
 
-
-📌 Funcionalidades:
-- Coleta de dados via sensores
-- Armazenamento em nuvem
-- Exibição de dados em dashboard
-
-🛠️ Tecnologias:
-- (adicione aqui: Java, Spring, banco, etc)
-
-🔗 Link do projeto: (coloque aqui o link do repositório)
-
----
-
 ## 📫 Contato
 
 - 📧 Email: kaique.tozim@sptech.school  
