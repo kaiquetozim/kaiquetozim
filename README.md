@@ -1,26 +1,65 @@
-# Kaique Sotero Tozim
+# 👨‍💻 Kaique Sotero Tozim
 
 ## Olá! 👋
 
-Sou Kaique Sotero Tozim, gosto de programação, de estudar algoritmos e banco de dados. Estou interessado em atuar na área de analista e desenvolvedor de sistemas. Atualmente, estou cursando o curso de ànalise e desenvolvimento de sistemas na faculdade sptech, integrado no projeto GuardTech.
+Sou Kaique Sotero Tozim, Analista de Sistemas com experiência em suporte, integração de sistemas e manipulação de dados com SQL Server.
 
-## 🌱 Atualmente Aprendendo
+Atualmente, estou em transição para a área de Desenvolvimento Backend, com foco em Java e Spring Boot. Tenho interesse em construir APIs REST, trabalhar com banco de dados e evoluir em arquitetura de sistemas.
 
-- Algoritimos por meio da linguagem de programção javaScript
-- Criar tabelas, altera-lás, inserir valores e modifica-lás no banco de dados mysql
-- documentação de projeto
-- maracação de texto HTML e estilização CSS
-- Números e calculos binários
-- máquina virtual 
+🎓 Cursando Análise e Desenvolvimento de Sistemas  
+📍 São Paulo - Brasil  
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+- Java
+- Spring Boot
+- SQL Server / MySQL
+- API REST
+- Git e GitHub
+- HTML e CSS
+- JavaScript
+- Scrum / Kanban
+
+---
+
+## 🌱 Atualmente estudando
+
+- Desenvolvimento de APIs REST com Spring Boot
+- Boas práticas de backend (arquitetura e organização de código)
+- Integração entre sistemas
+- Autenticação e segurança com JWT
+- Banco de dados e otimização de queries
+
+---
 
 ## 🚀 Projetos
 
-Alguns projetos em que estou trabalhando ou contribuindo:
+### 🔹 GuardTech
+Sistema para monitoramento de temperatura e umidade em armazéns de grãos.
 
-- GuardTech(link para o projeto): Esse projeto tem como principal objetivo  utilizar sensores de temperatura e umidade para monitorar e capturar dados em armazéns de grãos de milho. Armazenando os dados na nuvem, e retornando um resultado no dashboard, com um prazo de entrega de 37 dias. .
+📌 Funcionalidades:
+- Coleta de dados via sensores
+- Armazenamento em nuvem
+- Exibição de dados em dashboard
 
-## 📫 Como Me Encontrar
+🛠️ Tecnologias:
+- (adicione aqui: Java, Spring, banco, etc)
 
-- email: @kaique.tozim@sptech.school
+🔗 Link do projeto: (coloque aqui o link do repositório)
+
+---
+
+## 📫 Contato
+
+- 📧 Email: kaique.tozim@sptech.school  
+- 💼 LinkedIn:https://www.linkedin.com/in/kaique-sotero-tozim-834a16303
+
+---
+
+## 🎯 Objetivo
+
+Busco uma oportunidade como Desenvolvedor Backend Java, onde eu possa aplicar meus conhecimentos em sistemas, banco de dados e desenvolvimento de APIs, além de continuar evoluindo tecnicamente.
 
 
