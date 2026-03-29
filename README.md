@@ -36,8 +36,18 @@ Atualmente, estou em transição para a área de Desenvolvimento Backend, com fo
 
 ## 🚀 Projetos
 
-### 🔹 GuardTech
-Sistema para monitoramento de temperatura e umidade em armazéns de grãos.
+### 🔹 ArtCare
+Site e sistema de monitoramento ambiental para museus usando sensores Arduino de temperatura e umidade 
+
+### 🔹GymTech 
+Site Pessoal
+
+### 🔹 CitrusVital
+Site e sistema de monitoramento climático em tempo real 
+
+### 🔹Tozim solutions
+Site e sistema de gerenciamento de estoque de peças de sofás.
+
 
 📌 Funcionalidades:
 - Coleta de dados via sensores
